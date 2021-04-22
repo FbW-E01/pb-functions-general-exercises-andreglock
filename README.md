@@ -10,7 +10,7 @@
 
 5. This question has 2 parts
 
-    Part a) write a function that takes in a number and does a `console.log("Even 10!")` if the number is evenly divisable by 10. Examples:
+    Part a) write a function that takes in a number and does a `console.log("Even 10!")` if the number is evenly divisible by 10. Examples:
 
     -  printIfDivisibleByTen(1) --> no output
     -  printIfDivisibleByTen(2) --> no output
@@ -49,7 +49,7 @@ The function should return a new string that where each word in the input string
     - firstLetters("MongoDB Express Node React") --> "MERN"
     - firstLetters("What You See Is What You Get") --> "WYSIWYG"
 
-13. Write an arrow function that takes in one variable. If that variables is a string, it will return the length of the string. If that variable is an array, it returns the length of the array. If it is something else, it will return null. You might need to search Google to find out how can you identify if the parameter is an array - but there are other ways to solve this too!
+13. Write an arrow function that takes in one variable. If that variable is a string, it will return the length of the string. If that variable is an array, it returns the length of the array. If it is something else, it will return null. You might need to search Google to find out how can you identify if the parameter is an array - but there are other ways to solve this too!
 
 14. Write an arrow function that takes in one variable. If the variable is not a string, return null. If it is a string, return an array where each of the characters of that string is in individual array entry. Examples:
     - explode("Cat") --> ["C", "a", "t"]
